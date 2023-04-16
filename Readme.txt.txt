@@ -1,7 +1,1 @@
-third commit main
-
-In Feature 2 
-
-In Feature 2 sec commit
-
-qq
+removing text in feature 3 first commit
