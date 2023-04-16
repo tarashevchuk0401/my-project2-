@@ -1,0 +1,29 @@
+[33mcommit 22d10baade9c98b7d743d6b6f5e965abf6b180aa[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m, [m[1;31morigin/feature1[m[33m)[m
+Author: Taras Shevchuk <tarashevchuk0401@gmail.com>
+Date:   Sun Apr 16 11:22:14 2023 +0200
+
+    first commit from feature1
+
+[33mcommit 82c332312678223845cff0898b330fd9d2db6dc4[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Taras Shevchuk <tarashevchuk0401@gmail.com>
+Date:   Sun Apr 16 11:17:37 2023 +0200
+
+    fourth
+
+[33mcommit c59ccdbdb5e62831bf823249b63423ff1e0849fc[m
+Author: Taras Shevchuk <tarashevchuk0401@gmail.com>
+Date:   Sun Apr 16 11:15:20 2023 +0200
+
+    third
+
+[33mcommit c2302dc944e3048b9f20a3e8773dea5cd649f968[m
+Author: Taras Shevchuk <tarashevchuk0401@gmail.com>
+Date:   Sun Apr 16 11:13:21 2023 +0200
+
+    second
+
+[33mcommit f8cb20c4c4601dd2c7866888e223cf5448975b52[m
+Author: Taras Shevchuk <tarashevchuk0401@gmail.com>
+Date:   Sun Apr 16 11:10:59 2023 +0200
+
+    first
