@@ -1,1 +1,2 @@
-removing text in feature 3 first commit
+removing text in feature 3 first commit...
+after merging
